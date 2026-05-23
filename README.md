@@ -21,7 +21,11 @@
 
 ## 📁 Projetos
 
-> Em construção. Acompanhe minha evolução por aqui.
+### 🏭 [Checklist PPRO — Simulador Industrial](https://github.com/felipedbalbino/checklist-ppro)
+Simulador de checklist operacional em Python baseado na experiência real como Operador de Máquinas.
+Verifica temperaturas, pressão, peças críticas e gera relatório de alertas.
+
+> Mais projetos chegando em breve. Acompanhe minha evolução por aqui.
 
 ---
 
