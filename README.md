@@ -21,6 +21,10 @@
 
 ## 📁 Projetos
 
+### 🌐 [Portfólio Pessoal](https://felipedbalbino.github.io)
+Página pessoal desenvolvida em HTML e CSS com identidade visual dark clean.
+Apresenta experiência, skills, formação e projetos.
+
 ### 🏭 [Checklist PPRO — Simulador Industrial](https://github.com/felipedbalbino/checklist-ppro)
 Simulador de checklist operacional em Python baseado na experiência real como Operador de Máquinas.
 Verifica temperaturas, pressão, peças críticas e gera relatório de alertas.
