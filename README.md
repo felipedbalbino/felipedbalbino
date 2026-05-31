@@ -21,6 +21,10 @@
 
 ## 📁 Projetos
 
+### 🌸 [FocoQuiz — Quiz de Matemática para TDAH](https://felipedbalbino.github.io/focoquiz)
+Quiz educativo desenvolvido em HTML, CSS e JavaScript para minha irmã de 16 anos com TDAH e deficiência intelectual leve.
+Sessões curtas, feedback imediato e visual acolhedor para quem aprende diferente.
+
 ### 🌐 [Portfólio Pessoal](https://felipedbalbino.github.io)
 Página pessoal desenvolvida em HTML e CSS com identidade visual dark clean.
 Apresenta experiência, skills, formação e projetos.
